@@ -10,7 +10,10 @@
  * /friend - реферальная ссылка  
  * /sale - скидка  
  * /call - можно нам позвонить  
- * /geophone - Ваш телефон или локация  
+ * /geophone - Ваш телефон или локация 
+
+### <a href = 'https://docs.google.com/presentation/d/1GerdPr9hSjaubdAfxp6TVD-6hv3LmJ4GR4FUErWguDc/edit#slide=id.p'>Призентация(старая)</a>
+
 
 Если Вам срочно захотелось пиццу, но нету времени искать сайты и номера телефонов, то мой Бот Вам в этом поможет!)
 

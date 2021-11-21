@@ -16,4 +16,8 @@
 
 <a href = 'https://t.me/Pizza_times_bot'>Ссылочка на ботика</a>
 
-![Picture](https://drive.google.com/file/d/1JRzbHZ_eKklLIp30NSzt7zMz_-N_Bggu/view?usp=sharing)
+![Picture](https://github.com/Sergiychik/bot/blob/main/picture/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+
+
+# А вот и QR CODE
+![Picture](https://github.com/Sergiychik/bot/blob/main/picture/qrchimpX2048%20(1).png)

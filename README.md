@@ -21,9 +21,9 @@
 
 <a href = 'https://t.me/Pizza_times_bot'>**Ссылочка на ботика**</a>
 
-<a href = 'https://github.com/Sergiychik/bot/blob/main/picture/bot.webm'>**Видео**</a>
+<a href = 'https://github.com/Sergiychik/bot/blob/main/picture/bot.mp4'>**Видео**</a>
 
-![Picture](https://github.com/Sergiychik/bot/blob/main/picture/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+![Picture](https://github.com/Sergiychik/bot/blob/main/picture/%D0%B1%D0%BE%D1%82.PNG)
 
 ## Код Бота
 
@@ -189,13 +189,6 @@ def main() -> None:
     a(CommandHandler("change", change))
     a(CommandHandler('give_data', give_data))
 
-    #a(CommandHandler("p", p_callback))
-    #a(CommandHandler("shipping", start_with_shipping_callback))
-    #a(CommandHandler("noshipping", start_without_shipping_callback))
-    #a(ShippingQueryHandler(shipping_callback))
-    #a(PreCheckoutQueryHandler(precheckout_callback))
-    #a(MessageHandler(Filters.successful_payment, successful_payment_callback))
-
     
     updater.start_polling()
     updater.idle()
@@ -203,10 +196,6 @@ def main() -> None:
 if __name__ == '__main__':
     main()
 ```
-
-
-
-
 
 
 # А вот и QR CODE

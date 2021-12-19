@@ -15,7 +15,7 @@
  * /change - смена времени получения рассылки
  * /stp - отписка от рассылки
 
-### <a href = 'https://docs.google.com/presentation/d/1_zxzZKB5MTOrYG09VBr-LQkQSRBbOChq/edit?usp=sharing&ouid=110443033296348001421&rtpof=true&sd=true'>Призентация(старая)</a>
+### <a href = 'https://docs.google.com/presentation/d/1_zxzZKB5MTOrYG09VBr-LQkQSRBbOChq/edit?usp=sharing&ouid=110443033296348001421&rtpof=true&sd=true'>Призентация</a>
 
 Если Вам срочно захотелось пиццу, но нету времени искать сайты и номера телефонов, то мой Бот Вам в этом поможет!)
 

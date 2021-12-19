@@ -15,13 +15,13 @@
  * /change - смена времени получения рассылки
  * /stp - отписка от рассылки
 
-### <a href = 'https://docs.google.com/presentation/d/1GerdPr9hSjaubdAfxp6TVD-6hv3LmJ4GR4FUErWguDc/edit#slide=id.p'>Призентация(старая)</a>
+### <a href = 'https://docs.google.com/presentation/d/1_zxzZKB5MTOrYG09VBr-LQkQSRBbOChq/edit?usp=sharing&ouid=110443033296348001421&rtpof=true&sd=true'>Призентация(старая)</a>
 
 Если Вам срочно захотелось пиццу, но нету времени искать сайты и номера телефонов, то мой Бот Вам в этом поможет!)
 
 ### <a href = 'https://t.me/Pizza_times_bot'>**Ссылочка на ботика**</a>
 
-### <a href = 'https://github.com/Sergiychik/bot/blob/main/picture/bot.mp4'>**Видео**</a>
+### <a href = 'https://github.com/Sergiychik/bot/blob/main/picture/XRecorder_09122021_151356.mp4'>**Видео**</a>
 
 ### <a href = 'https://github.com/Sergiychik/bot/blob/main/Pizza.py'>Код Бота</a>
 

@@ -23,7 +23,7 @@
 
 ### <a href = 'https://github.com/Sergiychik/bot/blob/main/picture/XRecorder_09122021_151356.mp4'>**Видео**</a>
 
-### <a href = 'https://github.com/Sergiychik/bot/blob/main/picture/XRecorder_09122021_151356.mp4'>**Видео**</a>'>**Видео на ютубе**</a>
+### <a href = 'https://www.youtube.com/watch?v=roXdqxfsYX8'>**Видео на Ютубе**</a>
 
 ### <a href = 'https://github.com/Sergiychik/bot/blob/main/Pizza.py'>Код Бота</a>
 
